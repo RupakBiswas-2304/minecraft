@@ -557,6 +557,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/black_bed": {
+    "criteria": {
+      "has_black_wool": "2022-02-26 14:21:07 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/gray_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2022-02-25 16:56:56 +0530"
@@ -615,7 +621,9 @@
     "criteria": {
       "minecraft:skeleton": "2022-02-24 17:51:52 +0530",
       "minecraft:spider": "2022-02-24 17:12:43 +0530",
+      "minecraft:creeper": "2022-02-26 18:20:56 +0530",
       "minecraft:slime": "2022-02-24 20:12:28 +0530",
+      "minecraft:phantom": "2022-02-26 14:26:27 +0530",
       "minecraft:zombie": "2022-02-24 19:43:11 +0530"
     },
     "done": false
@@ -1049,6 +1057,12 @@
   "minecraft:recipes/building_blocks/jungle_planks": {
     "criteria": {
       "has_logs": "2022-02-24 15:10:56 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_banner": {
+    "criteria": {
+      "has_black_wool": "2022-02-26 14:21:07 +0530"
     },
     "done": true
   },
@@ -1800,6 +1814,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2022-02-26 18:20:58 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/nether_bricks": {
     "criteria": {
       "has_netherbrick": "2022-02-24 20:47:12 +0530"
@@ -1851,7 +1871,9 @@
       "potato": "2022-02-26 02:28:34 +0530",
       "bread": "2022-02-25 16:03:12 +0530",
       "rotten_flesh": "2022-02-24 17:31:12 +0530",
+      "cookie": "2022-02-26 14:33:32 +0530",
       "melon_slice": "2022-02-24 21:15:27 +0530",
+      "cooked_chicken": "2022-02-26 18:07:44 +0530",
       "carrot": "2022-02-25 17:46:48 +0530"
     },
     "done": false
@@ -2006,6 +2028,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2022-02-26 18:20:58 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/acacia_slab": {
     "criteria": {
       "has_planks": "2022-02-25 17:23:10 +0530"
@@ -2020,6 +2048,7 @@
   },
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
+      "minecraft:sheep": "2022-02-26 19:44:55 +0530",
       "minecraft:cow": "2022-02-25 16:08:56 +0530"
     },
     "done": false
@@ -2510,6 +2539,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/black_carpet": {
+    "criteria": {
+      "has_black_wool": "2022-02-26 14:21:07 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/coal_block": {
     "criteria": {
       "has_coal": "2022-02-24 15:42:40 +0530"
@@ -2684,15 +2719,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/repeater": {
-    "criteria": {
-      "has_redstone_torch": "2022-02-26 02:26:02 +0530"
-    },
-    "done": true
-  },
   "minecraft:recipes/tools/compass": {
     "criteria": {
       "has_redstone": "2022-02-26 01:40:41 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/repeater": {
+    "criteria": {
+      "has_redstone_torch": "2022-02-26 02:26:02 +0530"
     },
     "done": true
   },
