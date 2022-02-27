@@ -299,6 +299,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/exposed_cut_copper_stairs_from_exposed_copper_stonecutting": {
+    "criteria": {
+      "has_exposed_copper": "2022-02-27 15:24:03 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/spruce_boat": {
     "criteria": {
       "in_water": "2022-02-26 13:12:01 +0530"
@@ -343,7 +349,8 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
-      "bread": "2022-02-26 13:17:21 +0530"
+      "bread": "2022-02-26 13:17:21 +0530",
+      "cooked_chicken": "2022-02-27 16:07:35 +0530"
     },
     "done": false
   },
@@ -470,6 +477,12 @@
   "minecraft:recipes/combat/iron_helmet": {
     "criteria": {
       "has_iron_ingot": "2022-02-26 22:28:20 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_exposed_copper_from_honeycomb": {
+    "criteria": {
+      "has_exposed_copper": "2022-02-27 15:24:03 +0530"
     },
     "done": true
   },
@@ -796,6 +809,7 @@
       "minecraft:skeleton": "2022-02-26 13:19:48 +0530",
       "minecraft:spider": "2022-02-26 13:20:48 +0530",
       "minecraft:creeper": "2022-02-26 13:20:51 +0530",
+      "minecraft:slime": "2022-02-27 16:03:54 +0530",
       "minecraft:zombie": "2022-02-26 13:20:06 +0530"
     },
     "done": false
@@ -911,6 +925,12 @@
   "minecraft:recipes/decorations/chain": {
     "criteria": {
       "has_iron_ingot": "2022-02-26 22:28:20 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/exposed_cut_copper_slab_from_exposed_copper_stonecutting": {
+    "criteria": {
+      "has_exposed_copper": "2022-02-27 15:24:03 +0530"
     },
     "done": true
   },
@@ -1076,6 +1096,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_blasting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2022-02-27 16:11:28 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/glass_bottle": {
     "criteria": {
       "has_glass": "2022-02-27 01:26:34 +0530"
@@ -1085,6 +1111,12 @@
   "minecraft:recipes/building_blocks/brown_wool": {
     "criteria": {
       "has_white_wool": "2022-02-26 13:26:32 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2022-02-27 16:04:12 +0530"
     },
     "done": true
   },
@@ -1238,9 +1270,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2022-02-27 16:04:12 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/tripwire_hook": {
     "criteria": {
       "has_string": "2022-02-26 13:20:49 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/exposed_cut_copper_from_exposed_copper_stonecutting": {
+    "criteria": {
+      "has_exposed_copper": "2022-02-27 15:24:03 +0530"
     },
     "done": true
   },
@@ -1418,6 +1462,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2022-02-27 16:04:12 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone": {
     "criteria": {
       "has_cobblestone": "2022-02-25 12:59:34 +0530"
@@ -1504,6 +1554,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_smelting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2022-02-27 16:11:28 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_pickaxe": {
     "criteria": {
       "has_cobblestone": "2022-02-25 12:59:34 +0530"
@@ -1573,6 +1629,12 @@
   "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2022-02-25 12:59:34 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/exposed_cut_copper": {
+    "criteria": {
+      "has_exposed_copper": "2022-02-27 15:24:03 +0530"
     },
     "done": true
   },
@@ -1759,6 +1821,12 @@
   "minecraft:recipes/food/cooked_mutton": {
     "criteria": {
       "has_mutton": "2022-02-26 13:26:28 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_iron_block": {
+    "criteria": {
+      "has_raw_iron": "2022-02-27 16:11:28 +0530"
     },
     "done": true
   },
