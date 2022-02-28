@@ -257,6 +257,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_rabbit_from_smoking": {
+    "criteria": {
+      "has_rabbit": "2022-02-28 15:07:36 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_leggings": {
     "criteria": {
       "has_iron_ingot": "2022-02-24 16:15:57 +0530"
@@ -344,6 +350,12 @@
   "minecraft:recipes/building_blocks/deepslate_brick_slab_from_polished_deepslate_stonecutting": {
     "criteria": {
       "has_polished_deepslate": "2022-02-25 14:49:08 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dripstone_block": {
+    "criteria": {
+      "has_pointed_dripstone": "2022-02-28 17:24:42 +0530"
     },
     "done": true
   },
@@ -539,6 +551,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_rabbit_from_campfire_cooking": {
+    "criteria": {
+      "has_rabbit": "2022-02-28 15:07:36 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2022-02-24 15:36:30 +0530"
@@ -590,6 +608,12 @@
   "minecraft:recipes/decorations/light_blue_carpet_from_white_carpet": {
     "criteria": {
       "has_light_blue_dye": "2022-02-24 15:22:48 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_sign": {
+    "criteria": {
+      "has_planks": "2022-02-28 16:06:42 +0530"
     },
     "done": true
   },
@@ -1014,6 +1038,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/birch_button": {
+    "criteria": {
+      "has_planks": "2022-02-28 16:06:42 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/red_dye_from_poppy": {
     "criteria": {
       "has_poppy": "2022-02-24 17:00:42 +0530"
@@ -1212,6 +1242,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/birch_fence_gate": {
+    "criteria": {
+      "has_planks": "2022-02-28 16:06:42 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/stone_button": {
     "criteria": {
       "has_stone": "2022-02-24 18:23:59 +0530"
@@ -1393,6 +1429,8 @@
       "minecraft:sparse_jungle": "2022-02-24 20:34:02 +0530",
       "minecraft:lukewarm_ocean": "2022-02-24 21:19:40 +0530",
       "minecraft:river": "2022-02-24 20:20:24 +0530",
+      "minecraft:stony_shore": "2022-02-28 17:02:35 +0530",
+      "minecraft:dripstone_caves": "2022-02-28 17:24:48 +0530",
       "minecraft:swamp": "2022-02-24 15:13:54 +0530",
       "minecraft:forest": "2022-02-24 17:01:14 +0530",
       "minecraft:desert": "2022-02-28 03:39:49 +0530",
@@ -1823,6 +1861,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/birch_pressure_plate": {
+    "criteria": {
+      "has_planks": "2022-02-28 16:06:42 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/campfire": {
     "criteria": {
       "has_stick": "2022-02-24 15:10:52 +0530"
@@ -1904,6 +1948,12 @@
   "minecraft:recipes/building_blocks/deepslate_tile_slab_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2022-02-24 19:21:02 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal_from_bone_block": {
+    "criteria": {
+      "has_bone_block": "2022-02-28 15:37:09 +0530"
     },
     "done": true
   },
@@ -2018,11 +2068,13 @@
       "apple": "2022-02-24 17:05:43 +0530",
       "potato": "2022-02-26 02:28:34 +0530",
       "cooked_cod": "2022-02-27 00:20:18 +0530",
+      "rabbit": "2022-02-28 15:41:07 +0530",
       "pumpkin_pie": "2022-02-27 17:43:38 +0530",
       "mutton": "2022-02-27 00:18:22 +0530",
       "bread": "2022-02-25 16:03:12 +0530",
       "rotten_flesh": "2022-02-24 17:31:12 +0530",
       "cookie": "2022-02-26 14:33:32 +0530",
+      "salmon": "2022-02-28 15:22:09 +0530",
       "melon_slice": "2022-02-24 21:15:27 +0530",
       "cooked_chicken": "2022-02-26 18:07:44 +0530",
       "carrot": "2022-02-25 17:46:48 +0530"
@@ -2074,6 +2126,12 @@
   "minecraft:recipes/building_blocks/diorite_slab": {
     "criteria": {
       "has_diorite": "2022-02-24 15:37:54 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_slab": {
+    "criteria": {
+      "has_planks": "2022-02-28 16:06:42 +0530"
     },
     "done": true
   },
@@ -2229,6 +2287,7 @@
   },
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
+      "minecraft:cat": "2022-02-28 15:12:18 +0530",
       "minecraft:pig": "2022-02-27 00:39:32 +0530",
       "minecraft:turtle": "2022-02-28 03:21:37 +0530",
       "minecraft:sheep": "2022-02-26 19:44:55 +0530",
@@ -2519,6 +2578,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/birch_door": {
+    "criteria": {
+      "has_planks": "2022-02-28 16:06:42 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/glass_pane": {
     "criteria": {
       "has_glass": "2022-02-24 20:27:34 +0530"
@@ -2576,6 +2641,12 @@
   "minecraft:recipes/decorations/sandstone_wall_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2022-02-26 23:40:47 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_fence": {
+    "criteria": {
+      "has_planks": "2022-02-28 16:06:42 +0530"
     },
     "done": true
   },
@@ -2933,6 +3004,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_rabbit": {
+    "criteria": {
+      "has_rabbit": "2022-02-28 15:07:36 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/jungle_slab": {
     "criteria": {
       "has_planks": "2022-02-24 15:11:06 +0530"
@@ -3083,6 +3160,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/birch_stairs": {
+    "criteria": {
+      "has_planks": "2022-02-28 16:06:42 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/jungle_stairs": {
     "criteria": {
       "has_planks": "2022-02-24 15:11:06 +0530"
@@ -3110,6 +3193,12 @@
   "minecraft:recipes/transportation/carrot_on_a_stick": {
     "criteria": {
       "has_carrot": "2022-02-25 17:45:03 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/glow_item_frame": {
+    "criteria": {
+      "has_glow_ink_sac": "2022-02-28 17:55:04 +0530"
     },
     "done": true
   },
@@ -3161,6 +3250,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/birch_trapdoor": {
+    "criteria": {
+      "has_planks": "2022-02-28 16:06:42 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_leggings": {
     "criteria": {
       "has_gold_ingot": "2022-02-24 20:36:09 +0530"
@@ -3181,7 +3276,8 @@
   },
   "minecraft:husbandry/complete_catalogue": {
     "criteria": {
-      "textures/entity/cat/black.png": "2022-02-28 03:51:27 +0530"
+      "textures/entity/cat/black.png": "2022-02-28 03:51:27 +0530",
+      "textures/entity/cat/jellie.png": "2022-02-28 15:07:48 +0530"
     },
     "done": false
   },
