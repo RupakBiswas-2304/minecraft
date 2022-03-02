@@ -209,6 +209,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_sandstone": {
+    "criteria": {
+      "has_sand": "2022-03-02 04:16:13 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_shovel": {
     "criteria": {
       "has_stick": "2022-02-24 15:10:52 +0530"
@@ -320,6 +326,12 @@
   "minecraft:recipes/building_blocks/light_gray_terracotta": {
     "criteria": {
       "has_terracotta": "2022-02-28 03:45:26 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2022-03-02 02:58:14 +0530"
     },
     "done": true
   },
@@ -569,6 +581,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/armor_stand": {
+    "criteria": {
+      "has_stone_slab": "2022-03-02 03:39:56 +0530"
+    },
+    "done": true
+  },
   "minecraft:adventure/sleep_in_bed": {
     "criteria": {
       "slept_in_bed": "2022-02-24 15:43:00 +0530"
@@ -746,11 +764,18 @@
       "minecraft:slime": "2022-02-24 20:12:28 +0530",
       "minecraft:phantom": "2022-02-26 14:26:27 +0530",
       "minecraft:zombified_piglin": "2022-03-01 18:11:10 +0530",
+      "minecraft:husk": "2022-03-02 03:12:34 +0530",
       "minecraft:zombie": "2022-02-24 19:43:11 +0530",
       "minecraft:drowned": "2022-02-28 03:09:41 +0530",
       "minecraft:zombie_villager": "2022-02-28 02:27:39 +0530"
     },
     "done": false
+  },
+  "minecraft:recipes/decorations/brown_glazed_terracotta": {
+    "criteria": {
+      "has_brown_terracotta": "2022-03-02 04:24:55 +0530"
+    },
+    "done": true
   },
   "minecraft:recipes/building_blocks/birch_wood": {
     "criteria": {
@@ -1082,6 +1107,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/light_gray_glazed_terracotta": {
+    "criteria": {
+      "has_light_gray_terracotta": "2022-03-02 04:18:08 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_diorite_slab_from_polished_diorite_stonecutting": {
     "criteria": {
       "has_polished_diorite": "2022-02-24 16:27:01 +0530"
@@ -1187,6 +1218,12 @@
   "minecraft:recipes/building_blocks/oak_planks": {
     "criteria": {
       "has_logs": "2022-02-24 15:14:42 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_glazed_terracotta": {
+    "criteria": {
+      "has_yellow_terracotta": "2022-03-02 04:18:22 +0530"
     },
     "done": true
   },
@@ -1510,7 +1547,9 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:eroded_badlands": "2022-03-02 04:18:28 +0530",
       "minecraft:bamboo_jungle": "2022-02-24 20:59:28 +0530",
+      "minecraft:badlands": "2022-03-02 04:16:01 +0530",
       "minecraft:beach": "2022-02-24 20:19:41 +0530",
       "minecraft:sparse_jungle": "2022-02-24 20:34:02 +0530",
       "minecraft:lukewarm_ocean": "2022-02-24 21:19:40 +0530",
@@ -1662,6 +1701,12 @@
   "minecraft:recipes/building_blocks/cut_sandstone_slab": {
     "criteria": {
       "has_cut_sandstone": "2022-02-26 23:46:42 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/black_dye": {
+    "criteria": {
+      "has_ink_sac": "2022-03-02 04:07:01 +0530"
     },
     "done": true
   },
@@ -2335,6 +2380,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/white_glazed_terracotta": {
+    "criteria": {
+      "has_white_terracotta": "2022-03-02 04:21:11 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_helmet": {
     "criteria": {
       "has_iron_ingot": "2022-02-24 16:15:57 +0530"
@@ -2469,6 +2520,12 @@
   "minecraft:recipes/food/beetroot_soup": {
     "criteria": {
       "has_beetroot": "2022-03-01 19:04:04 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_glazed_terracotta": {
+    "criteria": {
+      "has_orange_terracotta": "2022-03-02 04:16:32 +0530"
     },
     "done": true
   },
@@ -2700,6 +2757,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/red_glazed_terracotta": {
+    "criteria": {
+      "has_red_terracotta": "2022-03-02 04:24:11 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate": {
     "criteria": {
       "has_cobbled_deepslate": "2022-02-24 19:21:02 +0530"
@@ -2757,6 +2820,12 @@
   "minecraft:recipes/decorations/glass_pane": {
     "criteria": {
       "has_glass": "2022-02-24 20:27:34 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2022-03-02 02:58:14 +0530"
     },
     "done": true
   },
