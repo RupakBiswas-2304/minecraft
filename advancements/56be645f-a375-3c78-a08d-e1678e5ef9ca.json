@@ -1276,7 +1276,9 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:eroded_badlands": "2022-03-03 19:20:08 +0530",
       "minecraft:bamboo_jungle": "2022-02-24 21:07:33 +0530",
+      "minecraft:badlands": "2022-03-03 19:17:07 +0530",
       "minecraft:beach": "2022-02-25 16:52:51 +0530",
       "minecraft:sparse_jungle": "2022-02-24 20:19:07 +0530",
       "minecraft:lukewarm_ocean": "2022-02-25 16:59:56 +0530",
@@ -2051,7 +2053,8 @@
   },
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
-      "minecraft:cat": "2022-02-28 15:11:06 +0530"
+      "minecraft:cat": "2022-02-28 15:11:06 +0530",
+      "minecraft:pig": "2022-03-03 20:02:25 +0530"
     },
     "done": false
   },
